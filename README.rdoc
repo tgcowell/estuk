@@ -1,28 +1,12 @@
-== README
+== eStuk
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is part of the Stuk.io website, part of a 2 sided market place similar to that of etsy and other similar websites.
 
-Things you may want to cover:
+please sign up via http://www.stuk.io to complete the Ruby on Rails training to create your own eStuk application
 
-* Ruby version
+This application has been made using:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+Ruby: 2.0.0p481
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
